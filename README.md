@@ -29,4 +29,4 @@ Previously, I spent 1.5+ years as a Frontend Developer at **RenderEase Technovat
 - **Location:** Gurugram, Haryana
 
 ### 📄 Resume
-- [View and Download my full Resume](https://drive.google.com/file/d/1g-4z-SUFdXZTCAuEQfhWXbqWs5RkInHD/view?usp=drivesdk)
+- [View and Download my full Resume]([https://drive.google.com/file/d/1g-4z-SUFdXZTCAuEQfhWXbqWs5RkInHD/view?usp=drivesdk](https://drive.google.com/drive/folders/1M-mIoNThFtAAEJwEM36gs_OWM8pqluLr))
